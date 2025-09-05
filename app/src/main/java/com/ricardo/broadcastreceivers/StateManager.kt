@@ -1,6 +1,5 @@
 package com.ricardo.broadcastreceivers
 
-import android.bluetooth.BluetoothAdapter
 import android.bluetooth.BluetoothManager
 import android.content.Context
 import android.provider.Settings
